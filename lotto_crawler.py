@@ -3,7 +3,6 @@ import time
 import pandas as pd
 
 driver = webdriver.Chrome("C:/Users/colin/Desktop/chromedriver")
-driver.get('https://www.pilio.idv.tw/lto/list.asp?indexpage=1&orderby=new')
 
 data_csv=[]
 
