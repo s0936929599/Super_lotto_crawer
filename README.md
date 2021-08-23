@@ -1,1 +1,1 @@
-# Super_lotto_crawer
+# Super_lotto_crawler
